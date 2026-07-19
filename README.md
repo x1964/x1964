@@ -22,22 +22,30 @@
 
 ## &nbsp;📌&nbsp; About Me
 
-```ts
-const kareem = {
-  role: "Full Stack Developer",
-  location: "Egypt 🇪🇬",
-  focus: ["SaaS Products", "Developer Tools", "Startups"],
-  philosophy: "Design is how it works, not just how it looks",
-  currentlyBuilding: "Something people actually want to use",
-  funFact: "I refactor code I wrote yesterday — not because
-             it's broken, but because it can be better."
-};
-```
+<table width="100%">
+<tr>
+<td width="100%">
 
-I build modern, high-performance web applications with a sharp focus on
-**design, scalability and user experience.** I care about the details most
-people skip — spacing, motion, load times, edge cases. I enjoy turning
-raw ideas into polished, production-ready products.
+I'm **Kareem Ibrahem**, a Full Stack Developer based in **Egypt 🇪🇬**,
+building modern, high-performance web applications with a sharp focus on
+**design, scalability, and user experience.**
+
+I care about the details most people skip — spacing, motion, load times,
+edge cases — and I enjoy turning raw ideas into polished, production-ready
+products. Right now I'm focused on **SaaS products, developer tools, and
+startup ideas**, always shipping something new.
+
+> *"Design is how it works, not just how it looks."*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`🚀 SaaS Products`&nbsp;&nbsp;·&nbsp;&nbsp;`🛠️ Developer Tools`&nbsp;&nbsp;·&nbsp;&nbsp;`💡 Startup Ideas`
+
+</div>
 
 <br/>
 
