@@ -1,30 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A1A&height=220&section=header&text=KAREEM%20IBRAHEM&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Egypt&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=230&section=header&text=KAREEM%20IBRAHEM&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Egypt&descAlignY=56&descSize=17&animation=fadeIn" />
 
 <a href="https://github.com/x1964">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+scalable+SaaS+products;Crafting+clean%2C+performant+interfaces;Turning+ideas+into+real+products;Obsessed+with+design+%2B+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=560&lines=Building+scalable+SaaS+products;Crafting+clean%2C+performant+interfaces;Turning+ideas+into+real+products;Obsessed+with+design+%2B+engineering" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-Available%20for%20work-0F0F0F?style=for-the-badge&labelColor=1A1A1A&color=22C55E" />
-<img src="https://img.shields.io/badge/-Egypt-0F0F0F?style=for-the-badge&labelColor=1A1A1A&color=3B82F6" />
-<img src="https://img.shields.io/badge/-Full%20Stack-0F0F0F?style=for-the-badge&labelColor=1A1A1A&color=A855F7" />
+<img src="https://img.shields.io/badge/Available%20for%20work-161B22?style=for-the-badge&labelColor=161B22&color=22C55E" />
+<img src="https://img.shields.io/badge/Egypt-161B22?style=for-the-badge&labelColor=161B22&color=3B82F6" />
+<img src="https://img.shields.io/badge/Full%20Stack-161B22?style=for-the-badge&labelColor=161B22&color=A855F7" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:3B82F6&height=3&width=1000" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-
-<img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+## &nbsp;📌&nbsp; About Me
 
 ```ts
 const kareem = {
@@ -33,8 +29,8 @@ const kareem = {
   focus: ["SaaS Products", "Developer Tools", "Startups"],
   philosophy: "Design is how it works, not just how it looks",
   currentlyBuilding: "Something people actually want to use",
-  funFact: "I refactor code I wrote yesterday, not because it's
-             broken — because it can be better."
+  funFact: "I refactor code I wrote yesterday — not because
+             it's broken, but because it can be better."
 };
 ```
 
@@ -43,114 +39,113 @@ I build modern, high-performance web applications with a sharp focus on
 people skip — spacing, motion, load times, edge cases. I enjoy turning
 raw ideas into polished, production-ready products.
 
-<br clear="right"/>
+<br/>
 
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-e546-4404-8dfe-b9576a032a37.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:3B82F6&height=2&width=1000" />
+</div>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Current Focus
+## &nbsp;🎯&nbsp; Current Focus
 
 <table width="100%">
 <tr>
 <td width="25%" align="center">
-
-**🚀 Building**
-SaaS products end-to-end
-
+<b>🚀 Building</b><br/>
+<sub>SaaS products end-to-end</sub>
 </td>
 <td width="25%" align="center">
-
-**🎨 Designing**
-Premium, minimal UIs
-
+<b>🎨 Designing</b><br/>
+<sub>Premium, minimal UIs</sub>
 </td>
 <td width="25%" align="center">
-
-**📚 Learning**
-System design at scale
-
+<b>📚 Learning</b><br/>
+<sub>System design at scale</sub>
 </td>
 <td width="25%" align="center">
-
-**🤝 Open to**
-Collaboration & freelance
-
+<b>🤝 Open to</b><br/>
+<sub>Collaboration & freelance</sub>
 </td>
 </tr>
 </table>
 
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-e546-4404-8dfe-b9576a032a37.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:3B82F6&height=2&width=1000" />
+</div>
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> Tech Stack
+## &nbsp;🧠&nbsp; Tech Stack
 
 <div align="center">
 
-**Frontend**
-
+<sub><b>FRONTEND</b></sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,js&theme=dark" />
 
 <br/><br/>
 
-**Backend**
-
+<sub><b>BACKEND</b></sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mysql&theme=dark" />
 
 <br/><br/>
 
-**Languages**
-
+<sub><b>LANGUAGES</b></sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=cs,scala,cpp,java&theme=dark" />
 
 <br/><br/>
 
-**AI & Automation**
-
-<img src="https://img.shields.io/badge/LangChain-0F0F0F?style=for-the-badge&logo=langchain&logoColor=1C3C3C&labelColor=1A1A1A" />
-<img src="https://img.shields.io/badge/AI%20Agents-0F0F0F?style=for-the-badge&logo=openai&logoColor=white&labelColor=1A1A1A" />
+<sub><b>AI & AUTOMATION</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&labelColor=161B22&color=1C3C3C" />
+<img src="https://img.shields.io/badge/AI%20Agents-161B22?style=for-the-badge&labelColor=161B22&color=6366F1" />
 
 <br/><br/>
 
-**Tools**
-
+<sub><b>TOOLS</b></sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman&theme=dark" />
 
 <br/><br/>
 
-**Craft**
-
-<img src="https://img.shields.io/badge/Product%20Design-0F0F0F?style=for-the-badge&labelColor=1A1A1A&color=EC4899" />
-<img src="https://img.shields.io/badge/Full--Stack-0F0F0F?style=for-the-badge&labelColor=1A1A1A&color=3B82F6" />
-<img src="https://img.shields.io/badge/Building%20in%20Public-0F0F0F?style=for-the-badge&labelColor=1A1A1A&color=22C55E" />
+<sub><b>CRAFT</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/Product%20Design-161B22?style=for-the-badge&labelColor=161B22&color=EC4899" />
+<img src="https://img.shields.io/badge/Full--Stack-161B22?style=for-the-badge&labelColor=161B22&color=3B82F6" />
+<img src="https://img.shields.io/badge/Building%20in%20Public-161B22?style=for-the-badge&labelColor=161B22&color=22C55E" />
 
 </div>
 
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-e546-4404-8dfe-b9576a032a37.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:3B82F6&height=2&width=1000" />
+</div>
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> GitHub Analytics
+## &nbsp;📊&nbsp; GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=x1964&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=3B82F6&text_color=C9D1D9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=x1964&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=x1964&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1964&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=x1964&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=x1964&theme=onedark&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=x1964&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=3B82F6&point=FFFFFF" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=x1964&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=3B82F6&point=FFFFFF&area=true&area_color=A855F7" />
 
 </div>
 
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-e546-4404-8dfe-b9576a032a37.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:3B82F6&height=2&width=1000" />
+</div>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Featured Projects
+## &nbsp;💼&nbsp; Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<div>
 
 ### 🪄 Portfolio — Personal Site
 <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" />
@@ -160,13 +155,11 @@ A minimal, motion-driven personal portfolio built for speed and clarity —
 
 `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://kareemibrahem.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
 </td>
 <td width="50%" valign="top">
-<div>
 
 ### ⚡ SaaS Starter Kit
 <img src="https://img.shields.io/badge/Status-In%20Development-F59E0B?style=flat-square" />
@@ -177,16 +170,14 @@ architecture built for real product launches.
 `Next.js` `Supabase` `PostgreSQL` `Stripe`
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<div>
 
-### 📊 Analytics Dashboard
+### 📈 Analytics Dashboard
 <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" />
 
 A real-time analytics dashboard with custom charts, dark mode, and
@@ -195,12 +186,10 @@ sub-second data refresh via WebSockets.
 `React` `Node.js` `Express` `PostgreSQL`
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
 </td>
 <td width="50%" valign="top">
-<div>
 
 ### 🛠️ DevTool CLI
 <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" />
@@ -211,9 +200,8 @@ and deployment workflows in seconds.
 `Node.js` `TypeScript` `npm`
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
 </td>
 </tr>
 </table>
@@ -227,13 +215,15 @@ and deployment workflows in seconds.
 Contributing to open-source tools that developers actually rely on —
 from small fixes to meaningful features. Always shipping something.
 
-<a href="#"><img src="https://img.shields.io/badge/Explore%20Repositories-000000?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/x1964?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-000000?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-e546-4404-8dfe-b9576a032a37.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:3B82F6&height=2&width=1000" />
+</div>
 
-## <img src="https://media.giphy.com/media/xUOxfhps3TxEgKGWQE/giphy.gif" width="30"> Achievements
+## &nbsp;🏆&nbsp; Achievements
 
 <table width="100%">
 <tr>
@@ -244,9 +234,11 @@ from small fixes to meaningful features. Always shipping something.
 </tr>
 </table>
 
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-e546-4404-8dfe-b9576a032a37.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:3B82F6&height=2&width=1000" />
+</div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Developer Philosophy
+## &nbsp;💭&nbsp; Developer Philosophy
 
 <div align="center">
 
@@ -257,7 +249,7 @@ from small fixes to meaningful features. Always shipping something.
 
 <br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Learning Journey & Goals
+## &nbsp;🌱&nbsp; Learning Journey & Goals
 
 <table width="100%">
 <tr>
@@ -280,16 +272,18 @@ from small fixes to meaningful features. Always shipping something.
 </tr>
 </table>
 
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-e546-4404-8dfe-b9576a032a37.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:3B82F6&height=2&width=1000" />
+</div>
 
-## <img src="https://media.giphy.com/media/26xivLqkv86uJzqWk/giphy.gif" width="30"> Let's Connect
+## &nbsp;📬&nbsp; Let's Connect
 
 <div align="center">
 
-<a href="mailto:kareemibrahem356@gmail.com"><img src="https://img.shields.io/badge/Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" /></a>
-<a href="https://www.linkedin.com/in/kareem-ibrahem-6b178131a"><img src="https://img.shields.io/badge/LinkedIn-0F0F0F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" /></a>
-<a href="https://twitter.com/x1964"><img src="https://img.shields.io/badge/Twitter-0F0F0F?style=for-the-badge&logo=x&logoColor=white&labelColor=1A1A1A" /></a>
-<a href="https://kareemibrahem.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F0F0F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A1A" /></a>
+<a href="mailto:kareemibrahem356@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" /></a>
+<a href="https://www.linkedin.com/in/kareem-ibrahem-6b178131a"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" /></a>
+<a href="https://twitter.com/x1964"><img src="https://img.shields.io/badge/Twitter-161B22?style=for-the-badge&logo=x&logoColor=white&labelColor=161B22" /></a>
+<a href="https://kareemibrahem.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22" /></a>
 
 <br/><br/>
 
@@ -299,7 +293,7 @@ from small fixes to meaningful features. Always shipping something.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0F0F0F&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=150&section=footer" />
 
 <div align="center">
 <sub>Designed & built with obsessive attention to detail — <b>Kareem Ibrahem</b> © 2026</sub>
