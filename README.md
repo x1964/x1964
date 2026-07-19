@@ -22,30 +22,45 @@
 
 ## &nbsp;📌&nbsp; About Me
 
-<table width="100%">
+<br/>
+
+<table width="100%" border="0">
 <tr>
-<td width="100%">
+<td width="70%" valign="middle">
 
-I'm **Kareem Ibrahem**, a Full Stack Developer based in **Egypt 🇪🇬**,
-building modern, high-performance web applications with a sharp focus on
-**design, scalability, and user experience.**
+<h3>Hey, I'm Kareem 👋</h3>
 
-I care about the details most people skip — spacing, motion, load times,
-edge cases — and I enjoy turning raw ideas into polished, production-ready
-products. Right now I'm focused on **SaaS products, developer tools, and
-startup ideas**, always shipping something new.
+<p>
+A <b>Full Stack Developer</b> based in <b>Egypt 🇪🇬</b>, obsessed with turning
+raw ideas into fast, polished, production-ready products. I care about the
+details most people skip — spacing, motion, load times, edge cases — because
+that's where good products become <i>great</i> ones.
+</p>
 
-> *"Design is how it works, not just how it looks."*
+<p>
+These days I'm deep into <b>SaaS products</b>, <b>developer tools</b>, and
+<b>startup ideas</b> — building end-to-end, from the database to the last
+pixel on screen.
+</p>
+
+<blockquote>
+<i>"Design is how it works, not just how it looks."</i>
+</blockquote>
+
+</td>
+<td width="30%" align="center">
+
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:A855F7,100:3B82F6&height=120&width=280&section=header&text=💻&fontSize=50" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/📍-Egypt-161B22?style=flat-square&labelColor=161B22&color=8B949E" /><br/>
+<img src="https://img.shields.io/badge/💼-Full%20Stack-161B22?style=flat-square&labelColor=161B22&color=8B949E" /><br/>
+<img src="https://img.shields.io/badge/⚡-Open%20to%20Work-161B22?style=flat-square&labelColor=161B22&color=22C55E" />
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-`🚀 SaaS Products`&nbsp;&nbsp;·&nbsp;&nbsp;`🛠️ Developer Tools`&nbsp;&nbsp;·&nbsp;&nbsp;`💡 Startup Ideas`
-
-</div>
 
 <br/>
 
