@@ -164,7 +164,7 @@ Got an idea? Want to collaborate? Or just want to say hi? I'm always open to int
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=22C55E&labelColor=0D1117)](mailto:kareemibrahem356@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=22C55E&labelColor=0D1117)](https://www.linkedin.com/in/kareem-ibrahem-6b178131a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=22C55E&labelColor=0D1117)](www.linkedin.com/in/kereemibrahem)
 [![Twitter](https://img.shields.io/badge/X%20(Twitter)-FFFFFF?style=for-the-badge&logo=x&logoColor=22C55E&labelColor=0D1117)](https://twitter.com/x1964)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=22C55E&labelColor=0D1117)](https://kareemibrahem.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=22C55E&labelColor=0D1117)](https://github.com/x1964)
