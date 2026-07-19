@@ -96,9 +96,30 @@ Collaboration & freelance
 
 <br/><br/>
 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,scala,cpp,java&theme=dark" />
+
+<br/><br/>
+
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/LangChain-0F0F0F?style=for-the-badge&logo=langchain&logoColor=1C3C3C&labelColor=1A1A1A" />
+<img src="https://img.shields.io/badge/AI%20Agents-0F0F0F?style=for-the-badge&logo=openai&logoColor=white&labelColor=1A1A1A" />
+
+<br/><br/>
+
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman&theme=dark" />
+
+<br/><br/>
+
+**Craft**
+
+<img src="https://img.shields.io/badge/Product%20Design-0F0F0F?style=for-the-badge&labelColor=1A1A1A&color=EC4899" />
+<img src="https://img.shields.io/badge/Full--Stack-0F0F0F?style=for-the-badge&labelColor=1A1A1A&color=3B82F6" />
+<img src="https://img.shields.io/badge/Building%20in%20Public-0F0F0F?style=for-the-badge&labelColor=1A1A1A&color=22C55E" />
 
 </div>
 
@@ -266,7 +287,7 @@ from small fixes to meaningful features. Always shipping something.
 <div align="center">
 
 <a href="mailto:kareemibrahem356@gmail.com"><img src="https://img.shields.io/badge/Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" /></a>
-<a href="www.linkedin.com/in/kareem-ibrahem-6b178131a"><img src="https://img.shields.io/badge/LinkedIn-0F0F0F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" /></a>
+<a href="https://www.linkedin.com/in/kareem-ibrahem-6b178131a"><img src="https://img.shields.io/badge/LinkedIn-0F0F0F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" /></a>
 <a href="https://twitter.com/x1964"><img src="https://img.shields.io/badge/Twitter-0F0F0F?style=for-the-badge&logo=x&logoColor=white&labelColor=1A1A1A" /></a>
 <a href="https://kareemibrahem.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F0F0F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A1A" /></a>
 
