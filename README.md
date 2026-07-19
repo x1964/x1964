@@ -1,236 +1,261 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1033,100:0D1117&height=260&section=header&text=KAREEM%20IBRAHEM&fontSize=46&fontColor=FFFFFF&fontAlignY=34&desc=Full%20Stack%20Developer%20building%20from%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=52&descSize=15&animation=fadeIn" />
-
 <br/>
 
-<code>&nbsp;kareem@dev</code> <code>~</code> <code>%</code>
+<sub>KAREEM IBRAHEM &nbsp;／&nbsp; INDEX</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=whoami;Full+Stack+Developer+%E2%80%94+Egypt+%F0%9F%87%AA%F0%9F%87%AC;building+SaaS+products+%26+dev+tools;ship+fast.+ship+clean.+ship+often." alt="Typing SVG" />
+<br/><br/>
 
-<br/>
+<h1><b>Full&nbsp;Stack&nbsp;Developer.</b><br/>Based&nbsp;in&nbsp;Egypt.</h1>
 
-<img src="https://img.shields.io/badge/●-Available-161B22?style=flat-square&labelColor=161B22&color=22C55E" />
-<img src="https://img.shields.io/badge/📍-Egypt-161B22?style=flat-square&labelColor=161B22&color=8B949E" />
-<img src="https://img.shields.io/badge/⚙-Full%20Stack-161B22?style=flat-square&labelColor=161B22&color=8B949E" />
-<img src="https://img.shields.io/badge/♥-Open%20Source-161B22?style=flat-square&labelColor=161B22&color=8B949E" />
+<sub>Building products that feel inevitable, not designed.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:1A1A1A&height=1&width=120" />
 
 </div>
 
-<br/>
+<br/><br/><br/>
 
 <table width="100%">
 <tr>
-<td width="66%" valign="top">
+<td width="8%"></td>
+<td width="34%" valign="top">
 
-### Hey, I'm Kareem 👋
-
-A **Full Stack Developer** based in **Egypt 🇪🇬**, obsessed with turning raw
-ideas into fast, polished, production-ready products. I care about the
-details most people skip — spacing, motion, load times, edge cases —
-because that's where good products quietly become *great* ones.
-
-These days I'm deep into **SaaS products**, **developer tools**, and
-**startup ideas** — building end-to-end, from the database to the last
-pixel on screen.
-
-<blockquote>
-Design is how it works, not just how it looks.
-</blockquote>
+<sub>01 — ORIGIN</sub>
 
 </td>
-<td width="34%" valign="top" align="center">
+<td width="4%"></td>
+<td width="54%" valign="top">
 
-<br/>
+<h2>I didn't start with code.<br/>I started with curiosity.</h2>
 
-|  |  |
-|:---|---:|
-| 🚀 **Building** | SaaS, end-to-end |
-| 🎨 **Designing** | Minimal & premium |
-| 📚 **Learning** | System design |
-| 🤝 **Open to** | Freelance work |
+<p>
+It began with a simple question — <i>how does this actually work?</i> —
+asked about a website, then an app, then a system. That question never
+really went away. It just got more expensive to answer, and more
+interesting to chase.
+</p>
+
+<p>
+Today I build full-stack products — interfaces, APIs, databases,
+infrastructure — with the same question still driving the work. Not
+"can I ship this," but <i>"is this the right way to build it."</i>
+</p>
+
+<p>
+I care about the parts users never consciously notice: the sixteen
+milliseconds a page takes to respond, the way a form validates without
+interrupting you, the absence of friction. Good engineering, done well,
+is invisible.
+</p>
+
+</td>
+<td width="0%"></td>
+</tr>
+</table>
+
+<br/><br/><br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:262626,100:262626&height=1&width=760" />
+</div>
+
+<br/><br/><br/>
+
+<table width="100%">
+<tr>
+<td width="8%"></td>
+<td width="84%">
+
+<sub>02 — THE TOOLS BEHIND THE CRAFT</sub>
+
+<br/><br/>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+<sub><b>INTERFACE</b></sub>
+
+<br/><br/>
+
+React<br/>
+Next.js<br/>
+TypeScript<br/>
+Tailwind CSS<br/>
+HTML&nbsp;/&nbsp;CSS<br/>
+JavaScript
+
+</td>
+<td width="25%" valign="top">
+
+<sub><b>SYSTEM</b></sub>
+
+<br/><br/>
+
+Node.js<br/>
+Express<br/>
+PostgreSQL<br/>
+Supabase<br/>
+MySQL
+
+</td>
+<td width="25%" valign="top">
+
+<sub><b>INTELLIGENCE</b></sub>
+
+<br/><br/>
+
+LangChain<br/>
+AI Agents<br/>
+C#<br/>
+Scala<br/>
+C++<br/>
+Java
+
+</td>
+<td width="25%" valign="top">
+
+<sub><b>PRACTICE</b></sub>
+
+<br/><br/>
+
+Git&nbsp;/&nbsp;GitHub<br/>
+VS Code<br/>
+Figma<br/>
+Vercel<br/>
+Postman
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A855F7,100:3B82F6&height=3&width=1000" />
-</div>
-
-<br/>
-
-## &nbsp;🧩&nbsp; Stack
-
-<div align="center">
-
-|  Frontend  |  Backend  |  Languages  |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=cs,scala,cpp,java&theme=dark" /> |
-
-|  AI & Automation  |  Tools  |  Craft  |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&labelColor=161B22&color=1C3C3C" /> <img src="https://img.shields.io/badge/AI%20Agents-161B22?style=for-the-badge&labelColor=161B22&color=6366F1" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman&theme=dark" /> | <img src="https://img.shields.io/badge/Product%20Design-161B22?style=for-the-badge&labelColor=161B22&color=EC4899" /> <img src="https://img.shields.io/badge/Full--Stack-161B22?style=for-the-badge&labelColor=161B22&color=3B82F6" /> <img src="https://img.shields.io/badge/Building%20in%20Public-161B22?style=for-the-badge&labelColor=161B22&color=22C55E" /> |
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3B82F6,100:A855F7&height=3&width=1000" />
-</div>
-
-<br/>
-
-## &nbsp;📊&nbsp; The Numbers
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=x1964&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=3B82F6&text_color=C9D1D9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=x1964&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1964&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=x1964&theme=onedark&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=x1964&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=3B82F6&point=FFFFFF&area=true&area_color=A855F7" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A855F7,100:3B82F6&height=3&width=1000" />
-</div>
-
-<br/>
-
-## &nbsp;🐍&nbsp; Every Commit, One Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x1964/x1964/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x1964/x1964/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/x1964/x1964/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3B82F6,100:A855F7&height=3&width=1000" />
-</div>
-
-<br/>
-
-## &nbsp;💼&nbsp; Featured Work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🪄 Portfolio — Personal Site</h3>
-<img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" />
-<p>A minimal, motion-driven personal portfolio built for speed and clarity — 100 Lighthouse score across the board.</p>
-<code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code>
 <br/><br/>
-<a href="https://kareemibrahem.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=white" /></a>
+
+<p width="60%">
+I don't collect tools. I choose them — deliberately, per problem, and
+retire them without sentiment when something better fits.
+</p>
+
 </td>
-<td width="50%" valign="top">
-<h3>⚡ SaaS Starter Kit</h3>
-<img src="https://img.shields.io/badge/Status-In%20Development-F59E0B?style=flat-square" />
-<p>Full-stack SaaS boilerplate with auth, billing, and a multi-tenant architecture built for real product launches.</p>
-<code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Stripe</code>
-<br/><br/>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📈 Analytics Dashboard</h3>
-<img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" />
-<p>A real-time analytics dashboard with custom charts, dark mode, and sub-second data refresh via WebSockets.</p>
-<code>React</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code>
-<br/><br/>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
-<td width="50%" valign="top">
-<h3>🛠️ DevTool CLI</h3>
-<img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" />
-<p>A developer productivity CLI that automates repetitive project setup and deployment workflows in seconds.</p>
-<code>Node.js</code> <code>TypeScript</code> <code>npm</code>
-<br/><br/>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
+<td width="8%"></td>
 </tr>
 </table>
 
+<br/><br/><br/>
+
 <div align="center">
-<h3>🌍 Open Source</h3>
-<img src="https://img.shields.io/badge/Status-Actively%20Contributing-A855F7?style=flat-square" />
-<p>Contributing to open-source tools that developers actually rely on — from small fixes to meaningful features.</p>
-<a href="https://github.com/x1964?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-000000?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:262626,100:262626&height=1&width=760" />
 </div>
 
-<br/>
+<br/><br/><br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A855F7,100:3B82F6&height=3&width=1000" />
+
+<sub>03 — SELECTED WORK</sub>
+
 </div>
-<br/>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center">🏆<br/><b>Consistent Contributor</b><br/><sub>Daily commits streak</sub></td>
-<td width="25%" align="center">🎯<br/><b>Product Shipper</b><br/><sub>Multiple live products</sub></td>
-<td width="25%" align="center">💡<br/><b>Problem Solver</b><br/><sub>Clean architecture focus</sub></td>
-<td width="25%" align="center">🌱<br/><b>Lifelong Learner</b><br/><sub>Always leveling up</sub></td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**📚 Currently Learning**
-- Advanced system design & architecture
-- Cloud infrastructure (AWS / Docker)
-- Performance engineering at scale
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 2026 Goals**
-- Launch a self-owned SaaS product
-- Contribute to major open-source projects
-- Mentor upcoming developers
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3B82F6,100:A855F7&height=3&width=1000" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### &nbsp;📬&nbsp; Let's build something
-
-<a href="mailto:kareemibrahem356@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" /></a>
-<a href="https://www.linkedin.com/in/kareem-ibrahem-6b178131a"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" /></a>
-<a href="https://twitter.com/x1964"><img src="https://img.shields.io/badge/Twitter-161B22?style=for-the-badge&logo=x&logoColor=white&labelColor=161B22" /></a>
-<a href="https://kareemibrahem.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=x1964&label=Profile%20Views&color=A855F7&style=for-the-badge" />
+<table width="100%">
+<tr>
+<td width="8%"></td>
+<td width="84%">
+
+<h3>Portfolio — Personal Site</h3>
+<sub>Live &nbsp;／&nbsp; Next.js, TypeScript, Tailwind CSS, Framer Motion</sub>
+<p>A motion-driven personal site engineered for a perfect Lighthouse
+score — proof that fast and beautiful aren't a trade-off.</p>
+<a href="https://kareemibrahem.vercel.app/">View&nbsp;→</a>
 
 <br/><br/>
 
-<sub>Designed & built with obsessive attention to detail — © 2026</sub>
+<h3>SaaS Starter Kit</h3>
+<sub>In Development &nbsp;／&nbsp; Next.js, Supabase, PostgreSQL, Stripe</sub>
+<p>A production-grade foundation for launching real products — auth,
+billing, and multi-tenancy handled correctly from day one.</p>
+<a href="#">View&nbsp;→</a>
+
+<br/><br/>
+
+<h3>Analytics Dashboard</h3>
+<sub>Live &nbsp;／&nbsp; React, Node.js, Express, PostgreSQL</sub>
+<p>Real-time data visualization with sub-second refresh — built so
+decisions never wait on the interface.</p>
+<a href="#">View&nbsp;→</a>
+
+<br/><br/>
+
+<h3>DevTool CLI</h3>
+<sub>Live &nbsp;／&nbsp; Node.js, TypeScript, npm</sub>
+<p>A small tool that removes a large annoyance — automating the setup
+work that stands between an idea and its first commit.</p>
+<a href="#">View&nbsp;→</a>
+
+</td>
+<td width="8%"></td>
+</tr>
+</table>
+
+<br/><br/><br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:262626,100:262626&height=1&width=760" />
+</div>
+
+<br/><br/><br/>
+
+<div align="center">
+
+<sub>04 — HOW I THINK</sub>
+
+<br/><br/>
+
+<h2>"Simplicity is not the absence of features.<br/>It's the absence of everything unnecessary."</h2>
+
+<br/>
+
+<sub>I'd rather ship something small and correct<br/>than something large and uncertain.</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1033,100:0D1117&height=150&section=footer" />
+<br/><br/><br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:262626,100:262626&height=1&width=760" />
+</div>
+
+<br/><br/><br/>
+
+<div align="center">
+
+<sub>05 — LET'S BUILD SOMETHING WORTH REMEMBERING</sub>
+
+<br/><br/>
+
+<h2>Have an idea worth building well?</h2>
+
+<br/>
+
+<a href="mailto:kareemibrahem356@gmail.com">Email</a>
+&nbsp;&nbsp;／&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kareem-ibrahem-6b178131a">LinkedIn</a>
+&nbsp;&nbsp;／&nbsp;&nbsp;
+<a href="https://twitter.com/x1964">Twitter</a>
+&nbsp;&nbsp;／&nbsp;&nbsp;
+<a href="https://kareemibrahem.vercel.app/">Portfolio</a>
+&nbsp;&nbsp;／&nbsp;&nbsp;
+<a href="https://github.com/x1964">GitHub</a>
+
+</div>
+
+<br/><br/><br/><br/>
+
+<div align="center">
+<sub>KAREEM IBRAHEM &nbsp;— &nbsp;EGYPT &nbsp;— &nbsp;2026</sub>
+</div>
+
+<br/>
