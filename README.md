@@ -12,7 +12,7 @@
   &nbsp;
   <a href="https://github.com/x1964" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22C55E" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/x1964" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117&color=22C55E" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/kereemibrahem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117&color=22C55E" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://twitter.com/x1964" target="_blank"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=white&labelColor=0D1117&color=FFFFFF" alt="Twitter/X" /></a>
   &nbsp;
