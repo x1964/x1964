@@ -1,198 +1,274 @@
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #0D1117; border: 1px solid #22C55E; border-radius: 16px;">
-  <tr>
-    <td width="40%" valign="center" align="center" style="padding: 0; background-image: url('https://raw.githubusercontent.com/x1964/x1964/main/.github/workflows/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966.gif'); background-size: cover; background-position: center; border-right: 1px solid #30363D;">
-      <div style="height: 220px;"></div>
-    </td>
-    <td width="60%" valign="center" align="center" style="padding: 40px;">
-      <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=800&size=32&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&random=false&width=450&height=50&lines=Kareem+Ibrahim;Full+Stack+Developer;Crafting+The+Future;AI+%26+SaaS+Architect" alt="Typing SVG" />
-      </h1>
-      <p style="color: #8B949E; font-family: 'Inter', sans-serif; font-size: 14px; margin-top: 15px; line-height: 1.6;">
-        Building high-end, motion-oriented, and performant web experiences from <b style="color: #FFFFFF;">Egypt 🇪🇬</b>
-      </p>
-      <p align="center" style="margin-top: 25px;">
-        <a href="https://kareemibrahem.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117&color=FFFFFF" alt="Portfolio" /></a>
-        <a href="https://github.com/x1964" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22C55E" alt="GitHub" /></a>
-        <a href="https://linkedin.com/in/x1964" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117&color=22C55E" alt="LinkedIn" /></a>
-        <a href="https://twitter.com/x1964" target="_blank"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=white&labelColor=0D1117&color=FFFFFF" alt="Twitter/X" /></a>
-        <a href="mailto:kareemibrahem356@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117&color=22C55E" alt="Email" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 <br/>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td width="50%" valign="top" style="padding: 0 8px 0 0;">
-      <img src="https://raw.githubusercontent.com/trinib/trinib/animated/svg/body.svg" width="100%" style="display: none;" alt="hidden"/>
-      <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 20px; box-shadow: 0 0 15px rgba(34, 197, 94, 0.05);">
-        <h3>👨‍💻 &nbsp;The Architect</h3>
-        <p style="color: #8B949E; font-size: 14px;">
-          I don't just write code; I engineer solutions. My expertise spans from architecting resilient backend systems to crafting pixel-perfect, motion-rich frontend interfaces.
-        </p>
-        <hr style="border: 0; border-top: 1px solid #30363D; margin: 15px 0;"/>
-        <h3>🎯 &nbsp;Current Focus</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Building-AI_SaaS-0D1117?style=flat&logo=openai&logoColor=22C55E" alt="Focus 1" /><br/><br/>
-          <img src="https://img.shields.io/badge/Exploring-Edge_Computing-0D1117?style=flat&logo=vercel&logoColor=22C55E" alt="Focus 2" /><br/><br/>
-          <img src="https://img.shields.io/badge/Mastering-System_Design-0D1117?style=flat&logo=cloudflare&logoColor=22C55E" alt="Focus 3" />
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="padding: 0 0 0 8px;">
-      <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 20px; box-shadow: 0 0 15px rgba(34, 197, 94, 0.05);">
-        <h3>⚙️ &nbsp;Tech Arsenal</h3>
-        <p align="center">
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,tailwind,postgres,prisma,redis,aws,docker,git" alt="Tech Stack" />
-          </a>
-        </p>
-        <hr style="border: 0; border-top: 1px solid #30363D; margin: 15px 0;"/>
-        <h3>📊 &nbsp;Live Stats</h3>
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=x1964&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=22C55E&icon_color=FFFFFF&text_color=C9D1D9" alt="GitHub Stats" width="100%" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3>🚀 &nbsp;Featured Products</h3>
-
-<table width="100%" cellpadding="8" cellspacing="0" border="0">
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363D; border-radius: 12px; background-color: #0D1117; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
-      <h4 align="left">
-        <img src="https://img.shields.io/badge/01-22C55E?style=flat-square&labelColor=0D1117" alt="Project 1" />
-        &nbsp; <b>Project Title One</b>
-      </h4>
-      <p align="left" style="color: #8B949E; font-size: 14px;">A brief, elegant description of what this product does and the problem it solves. Keep it concise and impactful.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
-      </p>
-      <p align="left">
-        <a href="https://kareemibrahem.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-        <a href="https://github.com/x1964" target="_blank"><img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363D; border-radius: 12px; background-color: #0D1117; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
-      <h4 align="left">
-        <img src="https://img.shields.io/badge/02-22C55E?style=flat-square&labelColor=0D1117" alt="Project 2" />
-        &nbsp; <b>Project Title Two</b>
-      </h4>
-      <p align="left" style="color: #8B949E; font-size: 14px;">A brief, elegant description of what this product does and the problem it solves. Keep it concise and impactful.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-      <p align="left">
-        <a href="https://kareemibrahem.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-        <a href="https://github.com/x1964" target="_blank"><img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3>📈 &nbsp;Contribution Pulse</h3>
-
-<div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 20px; box-shadow: 0 0 15px rgba(34, 197, 94, 0.05);">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x1964&bg_color=0D1117&color=C9D1D9&line=22C55E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-  <br/><br/>
-  <table width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td width="50%" valign="middle" align="center" style="padding: 0 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=x1964&theme=dark&background=0D1117&border=30363D&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="95%" />
-      </td>
-      <td width="50%" valign="middle" align="center" style="padding: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1964&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9" alt="Top Languages" width="95%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td width="33%" valign="top" style="padding: 0 8px 0 0;">
-      <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 20px; height: 100%;">
-        <h3>🌱 &nbsp;Open Source</h3>
-        <p style="color: #8B949E; font-size: 14px;">Contributing to the web ecosystem is the highest form of engineering. I build tools to make development faster and cleaner for everyone.</p>
-      </div>
-    </td>
-    <td width="33%" valign="top" style="padding: 0 8px;">
-      <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 20px; height: 100%;">
-        <h3>🧠 &nbsp;Philosophy</h3>
-        <blockquote style="color: #8B949E; font-size: 14px; border-left: 3px solid #22C55E; padding-left: 10px; margin: 0;">
-          <i>"Software should be invisible. The best interfaces don't feel designed; they feel inevitable."</i>
-        </blockquote>
-      </div>
-    </td>
-    <td width="33%" valign="top" style="padding: 0 0 0 8px;">
-      <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 20px; height: 100%;">
-        <h3>📚 &nbsp;Learning</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=CE422B" alt="Rust" /><br/><br/>
-          <img src="https://img.shields.io/badge/WebGPU-000000?style=flat&logo=webgl&logoColor=white" alt="WebGPU" /><br/><br/>
-          <img src="https://img.shields.io/badge/LLMs-000000?style=flat&logo=openai&logoColor=412991" alt="LLMs" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td width="50%" valign="top" style="padding: 0 8px 0 0;">
-      <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 20px;">
-        <h3>🎯 &nbsp;Goals 2026</h3>
-        <ul style="color: #8B949E; font-size: 14px;">
-          <li>Launch a profitable AI-driven SaaS.</li>
-          <li>Master systems programming with Rust.</li>
-          <li>Contribute to a top-tier open-source framework.</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="padding: 0 0 0 8px;">
-      <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 20px;">
-        <h3>⚡ &nbsp;Fun Facts</h3>
-        <ul style="color: #8B949E; font-size: 14px;">
-          <li>Coffee and dark mode are my primary dependencies.</li>
-          <li>My IDE is completely mouse-free.</li>
-          <li>I critique the UI of airport kiosks while waiting.</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/x1964/x1964/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%" style="border-radius: 12px; border: 1px solid #30363D; box-shadow: 0 0 20px rgba(34, 197, 94, 0.1);" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&height=50&lines=Kareem+Ibrahim;Full+Stack+Developer;Product+Engineer;UI+%2F+UX+Enthusiast" alt="Typing SVG" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=x1964&style=for-the-badge&color=22C55E&label=Visitors" alt="Visitors" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer&text=&fontSize=0&animation=fadeIn" width="100%" alt="Footer"/>
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://komarev.com/ghpvc/?username=x1964&label=Visitors&color=22C55E&style=for-the-badge&label=Visitors" alt="Visitors" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Status-Available_for_Work-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Location-Egypt-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</td>
+</tr>
+</table>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #30363D;"/>
+<br/>
+<br/>
 
-<p align="center" style="color: #8B949E; font-size: 12px;">
-  Designed & Built with <span style="color: #22C55E;">precision</span> by Kareem Ibrahim © 2024
+<div align="center">
+<h3><code>Building world-class software.</code></h3>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://kareemibrahem.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:kareemibrahem356@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/x1964">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</div>
+
+<br/>
+<br/>
+
+<img width="100%" src="https://svg-production-7e58.up.railway.app/line?color=22C55E&height=2&width=1500" alt="Line Divider" />
+
+<br/>
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>👨‍💻 &nbsp;About Me</h3>
+<p>
+I'm Kareem, a Full Stack Developer based in Egypt. <br/><br/>
+I specialize in crafting premium, high-performance web applications. My approach combines architectural precision with obsessive attention to UI/UX details.<br/><br/>
+I build products that feel fast, look elegant, and scale effortlessly.
 </p>
+</td>
+<td width="50%" valign="top">
+<h3>🚀 &nbsp;Current Focus</h3>
+<ul>
+<li>Architecting scalable SaaS platforms.</li>
+<li>Exploring edge computing & serverless architectures.</li>
+<li>Refining micro-interactions in React & Next.js.</li>
+<li>Contributing to open-source developer tools.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<h3>⚙️ &nbsp;Tech Stack</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,nestjs,postgres,prisma,mongodb,redis,git,docker,vercel,figma" alt="Tech Stack" />
+<br/>
+<br/>
+<sub><i>Architecting robust frontends. Engineering resilient backends. Designing seamless experiences.</i></sub>
+</div>
+
+<br/>
+<br/>
+
+<img width="100%" src="https://svg-production-7e58.up.railway.app/line?color=22C55E&height=2&width=1500" alt="Line Divider" />
+
+<br/>
+<br/>
+
+<div align="center">
+<h3>📊 &nbsp;GitHub Analytics</h3>
+<br/>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=x1964&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=22C55E&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" height="170" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=x1964&theme=chartreuse-dark&background=0D1117&border=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" height="170" />
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2" align="center">
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=x1964&bg_color=0D1117&color=FFFFFF&line=22C55E&point=22C55E&area=true&hide_border=true&area_color=22C55E" alt="Contribution Graph" width="90%" />
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+<br/>
+
+<img width="100%" src="https://svg-production-7e58.up.railway.app/line?color=22C55E&height=2&width=1500" alt="Line Divider" />
+
+<br/>
+<br/>
+
+<div align="center">
+<h3>💻 &nbsp;Featured Projects</h3>
+<br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+<img src="https://raw.githubusercontent.com/x1964/x1964/main/assets/project_placeholder_1.png" alt="Project One" width="100%" style="border-radius: 12px;" />
+<h3>Next-Gen SaaS Dashboard</h3>
+<p>A high-performance analytics platform built for enterprise teams. Features real-time data streaming, role-based access control, and edge rendering.</p>
+<p><code>TypeScript</code> &nbsp; <code>Next.js</code> &nbsp; <code>Prisma</code></p>
+<br/>
+<a href="https://kareemibrahem.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+&nbsp;
+<a href="https://github.com/x1964">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+</a>
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+<img src="https://raw.githubusercontent.com/x1964/x1964/main/assets/project_placeholder_2.png" alt="Project Two" width="100%" style="border-radius: 12px;" />
+<h3>AI-Powered Developer Tool</h3>
+<p>A developer CLI and web interface that automates codebase documentation and refactoring using advanced LLMs. Built for speed and local privacy.</p>
+<p><code>Node.js</code> &nbsp; <code>OpenAI</code> &nbsp; <code>Redis</code></p>
+<br/>
+<a href="https://kareemibrahem.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+&nbsp;
+<a href="https://github.com/x1964">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+</a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+<br/>
+
+<img width="100%" src="https://svg-production-7e58.up.railway.app/line?color=22C55E&height=2&width=1500" alt="Line Divider" />
+
+<br/>
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+<h3>🗺️ &nbsp;Roadmap & Goals</h3>
+<br/>
+<table align="center">
+<tr>
+<td align="left">
+<img src="https://img.shields.io/badge/2024-22C55E?style=flat-square&logo=goal&logoColor=white" alt="2024" />
+&nbsp; Master advanced system design patterns
+</td>
+</tr>
+<tr>
+<td align="left">
+<img src="https://img.shields.io/badge/2024-22C55E?style=flat-square&logo=goal&logoColor=white" alt="2024" />
+&nbsp; Launch an open-source UI component library
+</td>
+</tr>
+<tr>
+<td align="left">
+<img src="https://img.shields.io/badge/2024-22C55E?style=flat-square&logo=goal&logoColor=white" alt="2024" />
+&nbsp; Speak at a major tech conference
+</td>
+</tr>
+<tr>
+<td align="left">
+<img src="https://img.shields.io/badge/2024-22C55E?style=flat-square&logo=goal&logoColor=white" alt="2024" />
+&nbsp; Contribute to the Next.js core ecosystem
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+<h3>💡 &nbsp;Developer Philosophy</h3>
+<br/>
+<blockquote>
+<p>
+<i>"Software should be invisible. It should anticipate the user's needs and perform without friction."</i>
+</p>
+</blockquote>
+<blockquote>
+<p>
+<i>"Good code is readable. Great code is modular. World-class code is both."</i>
+</p>
+</blockquote>
+</div>
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+<img width="100%" src="https://svg-production-7e58.up.railway.app/line?color=22C55E&height=2&width=1500" alt="Line Divider" />
+
+<br/>
+<br/>
+
+<div align="center">
+<h3>🐍 &nbsp;Contribution Graph</h3>
+<br/>
+<img src="https://raw.githubusercontent.com/x1964/x1964/output/github-snake-dark.svg" alt="Snake Animation" width="80%" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1964&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=0D1117&title_color=22C55E&text_color=FFFFFF" alt="Top Languages" height="170" />
+</div>
+
+<br/>
+<br/>
+
+<img width="100%" src="https://svg-production-7e58.up.railway.app/line?color=22C55E&height=2&width=1500" alt="Line Divider" />
+
+<br/>
+<br/>
+
+<div align="center">
+<h3>💬 &nbsp;Get In Touch</h3>
+<br/>
+<p>
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+</p>
+<br/>
+<a href="mailto:kareemibrahem356@gmail.com">
+<img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+</a>
+&nbsp;
+<a href="https://kareemibrahem.vercel.app">
+<img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+</a>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Made_with_%E2%9D%A4_by_Kareem_Ibrahim-0D1117?style=flat-square&logoColor=22C55E" alt="Made by Kareem" />
+</div>
