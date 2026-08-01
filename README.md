@@ -1,3 +1,6 @@
+<!-- ==========================================
+     HERO SECTION: The First Impression
+     ========================================== -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 16px; overflow: hidden;">
   <tr>
     <td width="60%" valign="center" style="padding: 48px;">
@@ -8,6 +11,7 @@
       <br><br>
       <p style="color: #8B949E; font-size: 14px; line-height: 1.6; max-width: 400px;">I bridge the gap between robust backend architecture and elegant frontend interfaces. Focused on performance, motion, and scalable systems.</p>
       <br>
+      <!-- Social Links: Clean and Minimalist -->
       <a href="https://kareemibrahem.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117&color=FFFFFF" alt="Portfolio" /></a>
       &nbsp;
       <a href="https://github.com/x1964" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22C55E" alt="GitHub" /></a>
@@ -19,13 +23,17 @@
       <a href="mailto:kareemibrahem356@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117&color=22C55E" alt="Email" /></a>
     </td>
     <td width="40%" valign="center" align="center" style="padding: 0; background-color: #161B22; border-left: 1px solid #30363D;">
-      <img src="https://raw.githubusercontent.com/x1964/x1964/main/.github/workflows/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966.gif" alt="Hero Animation" width="100%" style="display: block; margin: auto;" />
+      <!-- Cleaned up the GIF link for better performance -->
+      <img src="https://media.giphy.com/media/qgQUggAC3P4uXuwtCq/giphy.gif" alt="Hero Animation" width="100%" style="display: block; margin: auto; opacity: 0.9;" />
     </td>
   </tr>
 </table>
 
 <br>
 
+<!-- ==========================================
+     ARCHITECT & FOCUS SECTION
+     ========================================== -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td width="50%" valign="top" style="padding: 0 16px 0 0;">
@@ -47,6 +55,9 @@
 
 <br>
 
+<!-- ==========================================
+     TECH STACK SECTION
+     ========================================== -->
 <h3 style="color: #FFFFFF; border-bottom: 1px solid #30363D; padding-bottom: 8px; font-size: 16px; font-family: 'Inter', sans-serif; letter-spacing: 0.5px;">⚙️ &nbsp;Tech Arsenal</h3>
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; margin-top: 16px;">
   <tr>
@@ -60,12 +71,17 @@
 
 <br>
 
+<!-- ==========================================
+     FEATURED PROJECTS SECTION
+     (بدل الـ Placeholders دي بمشاريعك الحقيقية)
+     ========================================== -->
 <h3 style="color: #FFFFFF; border-bottom: 1px solid #30363D; padding-bottom: 8px; font-size: 16px; font-family: 'Inter', sans-serif; letter-spacing: 0.5px;">🚀 &nbsp;Featured Products</h3>
 
 <table width="100%" cellpadding="0" cellspacing="16" border="0">
   <tr>
+    <!-- Project 1 -->
     <td width="50%" valign="top" style="border: 1px solid #30363D; border-radius: 12px; background-color: #0D1117; padding: 0; overflow: hidden;">
-      <img src="https://placehold.co/600x300/0D1117/22C55E?text=Product+UI&font=Inter" alt="Project 1" width="100%" style="border-bottom: 1px solid #30363D; display: block;" />
+      <img src="https://placehold.co/600x300/0D1117/22C55E?text=Project+UI&font=Inter" alt="Project 1" width="100%" style="border-bottom: 1px solid #30363D; display: block;" />
       <table width="100%" cellpadding="0" cellspacing="0" border="0">
         <tr>
           <td style="padding: 24px;">
@@ -87,6 +103,7 @@
         </tr>
       </table>
     </td>
+    <!-- Project 2 -->
     <td width="50%" valign="top" style="border: 1px solid #30363D; border-radius: 12px; background-color: #0D1117; padding: 0; overflow: hidden;">
       <img src="https://placehold.co/600x300/0D1117/FFFFFF?text=Product+UI&font=Inter" alt="Project 2" width="100%" style="border-bottom: 1px solid #30363D; display: block;" />
       <table width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -115,6 +132,9 @@
 
 <br>
 
+<!-- ==========================================
+     GITHUB STATS SECTION
+     ========================================== -->
 <h3 style="color: #FFFFFF; border-bottom: 1px solid #30363D; padding-bottom: 8px; font-size: 16px; font-family: 'Inter', sans-serif; letter-spacing: 0.5px;">📊 &nbsp;GitHub Pulse</h3>
 
 <table width="100%" cellpadding="0" cellspacing="16" border="0" align="center">
@@ -141,6 +161,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=x1964&bg_color=0D1117&color=C9D1D9&line=22C55E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" style="border-radius: 12px; border: 1px solid #30363D; background-color: #0D1117; display: block;" />
     </td>
     <td width="50%" valign="middle" align="center">
+      <!-- Note: Snake Animation requires a GitHub Action (See instructions below) -->
       <img src="https://raw.githubusercontent.com/x1964/x1964/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" style="border-radius: 12px; border: 1px solid #30363D; background-color: #0D1117; display: block;" />
     </td>
   </tr>
@@ -148,6 +169,9 @@
 
 <br>
 
+<!-- ==========================================
+     MINDSET & GOALS SECTION
+     ========================================== -->
 <table width="100%" cellpadding="0" cellspacing="16" border="0">
   <tr>
     <td width="33%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 20px;">
@@ -198,6 +222,9 @@
 
 <br>
 
+<!-- ==========================================
+     FOOTER SECTION
+     ========================================== -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td width="100%" align="center" style="padding: 20px 0;">
